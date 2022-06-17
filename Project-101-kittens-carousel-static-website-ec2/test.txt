@@ -1,0 +1,21 @@
+raw.githubusercontent.com/username/repo-name/branch-name/path
+
+
+Replace username with the username of the user that created the repo.
+
+Replace repo-name with the name of the repo.
+
+Replace branch-name with the name of the branch.
+
+Replace path with the path to the file.
+
+To reverse to go to GitHub.com:
+
+GitHub.com/username/repo-name/directory-path/blob/branch-name/filename
+
+
+
+raw.githubusercontent.com/seryum65/repo-name/branch-name/path
+
+
+https://github.com/seryum65/AWS-Projects/master/Project-101-kittens-carousel-static-website-ec2/static-web
